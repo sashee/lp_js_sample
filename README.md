@@ -1,4 +1,4 @@
-lp_ip_js_sample
+lp_js_sample
 =================
 
 This is a sample project for a blog post.
